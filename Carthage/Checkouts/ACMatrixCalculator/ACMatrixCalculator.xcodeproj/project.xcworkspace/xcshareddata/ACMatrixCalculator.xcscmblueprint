@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "CBFA8488AF11177866BBAAFC65922C279A65B2FC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7A4320B6B016045F53EB3B5B9712E94B1375EE7C" : 0,
+    "CBFA8488AF11177866BBAAFC65922C279A65B2FC" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8A4D5D7C-4C27-4276-A875-7DD63CB95964",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7A4320B6B016045F53EB3B5B9712E94B1375EE7C" : "MatrixOp\/",
+    "CBFA8488AF11177866BBAAFC65922C279A65B2FC" : "ACMatrixCalculator\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ACMatrixCalculator",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ACMatrixCalculator.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:acuenco\/MatrixOp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7A4320B6B016045F53EB3B5B9712E94B1375EE7C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:acuenco\/ACMatrixCalculator.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CBFA8488AF11177866BBAAFC65922C279A65B2FC"
+    }
+  ]
+}
