@@ -1,10 +1,4 @@
-//
-//  fourByfour_B.swift
-//  mCalc
-//
-//  Created by Adriene on 3/3/16.
-//  Copyright © 2016 adriene_c. All rights reserved.
-//
+
 
 import UIKit
 import Foundation

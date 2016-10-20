@@ -1,10 +1,4 @@
-//
-//  ViewController.swift
-//  mCalc
-//
-//  Created by adriene on 2/25/16.
-//  Copyright © 2016 adriene_c. All rights reserved.
-//
+
 
 import UIKit
 

@@ -1,11 +1,3 @@
-//
-//  ACMatrixCalculator.swift
-//  ACMatrixCalculator
-//
-//  Created by Adriene on 5/3/16.
-//  Copyright © 2016 Adriene Cuenco. All rights reserved.
-//
-
 
 import Foundation
 
