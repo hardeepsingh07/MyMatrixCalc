@@ -23,6 +23,18 @@ class results: UIViewController {
         mA.text = "Matrix A:\n" + stringify(matrixA)
         mB.text = "Matrix B:\n" + stringify(matrixB)
         
+        self.mA.layer.borderColor = UIColor.grayColor().CGColor;
+        self.mA.layer.borderWidth = 0.5;
+        self.mA.layer.cornerRadius = 5;
+        
+        self.mB.layer.borderColor = UIColor.grayColor().CGColor;
+        self.mB.layer.borderWidth = 0.5;
+        self.mB.layer.cornerRadius = 5;
+        
+        self.resultText.layer.borderColor = UIColor.grayColor().CGColor;
+        self.resultText.layer.borderWidth = 0.5;
+        self.resultText.layer.cornerRadius = 5;
+        
     }
     
     override func didReceiveMemoryWarning() {

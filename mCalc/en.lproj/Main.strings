@@ -1,0 +1,75 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "2be-1V-8Gp"; */
+"2be-1V-8Gp.normalTitle" = "Next";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "44F-fs-ce9"; */
+"44F-fs-ce9.normalTitle" = "Calculate";
+
+/* Class = "UINavigationItem"; title = "Matrix Calculator"; ObjectID = "6HJ-br-YFL"; */
+"6HJ-br-YFL.title" = "Matrix Calculator";
+
+/* Class = "UILabel"; text = "Matrix B (2 x 2)"; ObjectID = "7Rv-yX-SCH"; */
+"7Rv-yX-SCH.text" = "Matrix B (2 x 2)";
+
+/* Class = "UISegmentedControl"; 8e6-zk-j4Y.segmentTitles[0] = "Add"; ObjectID = "8e6-zk-j4Y"; */
+"8e6-zk-j4Y.segmentTitles[0]" = "Add";
+
+/* Class = "UISegmentedControl"; 8e6-zk-j4Y.segmentTitles[1] = "Subtract"; ObjectID = "8e6-zk-j4Y"; */
+"8e6-zk-j4Y.segmentTitles[1]" = "Subtract";
+
+/* Class = "UISegmentedControl"; 8e6-zk-j4Y.segmentTitles[2] = "Multiply"; ObjectID = "8e6-zk-j4Y"; */
+"8e6-zk-j4Y.segmentTitles[2]" = "Multiply";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "9MO-N4-zQk"; */
+"9MO-N4-zQk.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "Matrix A"; ObjectID = "Lii-re-g5N"; */
+"Lii-re-g5N.text" = "Matrix A";
+
+/* Class = "UILabel"; text = "Choose Operation"; ObjectID = "Njo-rs-ueY"; */
+"Njo-rs-ueY.text" = "Choose Operation";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "Otd-9C-tNn"; */
+"Otd-9C-tNn.normalTitle" = "Calculate";
+
+/* Class = "UIButton"; normalTitle = "Calculate"; ObjectID = "PZq-UV-UfP"; */
+"PZq-UV-UfP.normalTitle" = "Calculate";
+
+/* Class = "UILabel"; text = "Matrix A (3 x 3)"; ObjectID = "SEh-6u-cee"; */
+"SEh-6u-cee.text" = "Matrix A (3 x 3)";
+
+/* Class = "UILabel"; text = "Matrix A (4 x 4)"; ObjectID = "T7D-M1-bUF"; */
+"T7D-M1-bUF.text" = "Matrix A (4 x 4)";
+
+/* Class = "UILabel"; text = "  Choose matrix dimension."; ObjectID = "TSs-C2-Xqz"; */
+"TSs-C2-Xqz.text" = "  Choose matrix dimension.";
+
+/* Class = "UILabel"; text = "Matrix A (2 x 2)"; ObjectID = "UaS-pJ-Dn6"; */
+"UaS-pJ-Dn6.text" = "Matrix A (2 x 2)";
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "Ygg-iS-3iz"; */
+"Ygg-iS-3iz.normalTitle" = "Next";
+
+/* Class = "UILabel"; text = "2x2"; ObjectID = "iC7-UG-9Ey"; */
+"iC7-UG-9Ey.text" = "2x2";
+
+/* Class = "UILabel"; text = "Matrix B (3 x 3)"; ObjectID = "iRE-Ky-gyA"; */
+"iRE-Ky-gyA.text" = "Matrix B (3 x 3)";
+
+/* Class = "UILabel"; text = "Matrix B"; ObjectID = "igm-pO-KgF"; */
+"igm-pO-KgF.text" = "Matrix B";
+
+/* Class = "UILabel"; text = "Matrix B (4 x 4)"; ObjectID = "ijc-EE-ely"; */
+"ijc-EE-ely.text" = "Matrix B (4 x 4)";
+
+/* Class = "UILabel"; text = "4 by 4"; ObjectID = "sxT-SO-JqZ"; */
+"sxT-SO-JqZ.text" = "4 by 4";
+
+/* Class = "UILabel"; text = "3 by 3"; ObjectID = "uIT-AC-LHl"; */
+"uIT-AC-LHl.text" = "3 by 3";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "vkO-Ml-JQg"; */
+"vkO-Ml-JQg.normalTitle" = "Home";
+
+/* Class = "UINavigationItem"; title = "Results"; ObjectID = "ywT-gJ-3qp"; */
+"ywT-gJ-3qp.title" = "Results";
