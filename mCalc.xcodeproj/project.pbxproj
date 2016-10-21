@@ -487,7 +487,7 @@
 				INFOPLIST_FILE = mCalc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "adriene-c.mCalc";
+				PRODUCT_BUNDLE_IDENTIFIER = "a-c.mCalc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 2.3;
@@ -509,7 +509,7 @@
 				INFOPLIST_FILE = mCalc/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "adriene-c.mCalc";
+				PRODUCT_BUNDLE_IDENTIFIER = "a-c.mCalc";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_VERSION = 2.3;
@@ -523,7 +523,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = mCalcTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "adriene-c.mCalcTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "a-c.mCalcTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 2.3;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mCalc.app/mCalc";
@@ -536,7 +536,7 @@
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = mCalcTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "adriene-c.mCalcTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "a-c.mCalcTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 2.3;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/mCalc.app/mCalc";
@@ -548,7 +548,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = mCalcUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "adriene-c.mCalcUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "a-c.mCalcUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = mCalc;
@@ -561,7 +561,7 @@
 			buildSettings = {
 				INFOPLIST_FILE = mCalcUITests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "adriene-c.mCalcUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "a-c.mCalcUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 2.3;
 				TEST_TARGET_NAME = mCalc;
