@@ -1,4 +1,10 @@
-
+//
+//  mCalcUITests.swift
+//  mCalcUITests
+//
+//  Created by Hardeep Singh on 10/23/16.
+//  Copyright © 2016 adriene_c. All rights reserved.
+//
 
 import XCTest
 
@@ -23,8 +29,8 @@ class mCalcUITests: XCTestCase {
     }
     
     func testExample() {
-        // Use recording to get started writing UI tests.
-        // Use XCTAssert and related functions to verify your tests produce the correct results.
+        //Testing code goes here
+        
     }
     
 }
